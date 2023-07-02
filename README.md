@@ -1,4 +1,4 @@
-# Lunch.ly Lunch.ly Reservation System
+# Lunch.ly Reservation System
 
 The Lunch.ly Reservation System is a server-side templated application built with Express.js. It allows users to manage customers, reservations, and search for customers by name. Additionally, it provides functionality to display the top 10 customers based on the number of reservations they have made.
 
